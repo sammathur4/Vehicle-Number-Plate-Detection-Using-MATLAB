@@ -14,6 +14,13 @@ The purpose of motor vehicle registration by a government authority is to establ
 * Car parking management system
 * Improved security for the car parking operators
 
+![alt text](https://github.com/sammathur4/Vehicle-Number-Plate-Detection-Using-MATLAB/blob/main/Vehicle1.jpg)
+_Source Image_
+
+
+![alt text](https://github.com/sammathur4/Vehicle-Number-Plate-Detection-Using-MATLAB/blob/main/Fig1%20Vehicle1_ouput1.jpg)
+_Output_
+
 Further, this project can be used for vehicle license plate detection at interstate borders, airports, and harbours. 
 The elements considered in this project include the following:
 **Number plate detection**. Both front and back number plates of a vehicle are considered for detection.
