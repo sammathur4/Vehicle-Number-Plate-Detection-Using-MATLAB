@@ -23,6 +23,7 @@ _Output_
 
 Further, this project can be used for vehicle license plate detection at interstate borders, airports, and harbours. 
 The elements considered in this project include the following:
+
 **Number plate detection**. Both front and back number plates of a vehicle are considered for detection.
 
 **Text extraction from the detected number plate.** It can extract the text of only one vehicle number plate at a time.
